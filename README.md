@@ -95,7 +95,7 @@ This project implements a **WebSocket API** using **Node.js, TypeScript, and Soc
 ## Testing WebSockets
 ### **Using WebSocket King**
 1. Open [WebSocket King](https://websocketking.com/).
-2. Connect to `ws://localhost:2000`.
+2. Connect to `ws://localhost:8000`.
 3. Send test events like `joinRoom` and `message`.
 
 
