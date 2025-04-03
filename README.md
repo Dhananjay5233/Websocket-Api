@@ -1,5 +1,3 @@
-# Websocket-Api
-
 # WebSocket API
 
 ## Overview
