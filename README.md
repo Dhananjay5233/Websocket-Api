@@ -103,5 +103,5 @@ This project implements a **WebSocket API** using **Node.js, TypeScript, and Soc
 This project is licensed under the **MIT License**.
 
 ## Author
-Developed by **Dhananjay Kumar**.
+Developed by **Dhananjay Bedarkar**.
 
